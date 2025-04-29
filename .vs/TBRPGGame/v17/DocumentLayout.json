@@ -1,0 +1,410 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\UniWork\\Year2\\Year2 Term2\\Portfolio\\TBRPGGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56CD0762-5A7D-4EB3-AF3D-10B0268FE28A}|TBRPGGame\\TBRPGGame.vcxproj|C:\\UniWork\\Year2\\Year2 Term2\\Portfolio\\TBRPGGame\\TBRPGGame\\TBRPGGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{56CD0762-5A7D-4EB3-AF3D-10B0268FE28A}|TBRPGGame\\TBRPGGame.vcxproj|solutionrelative:TBRPGGame\\TBRPGGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CD0762-5A7D-4EB3-AF3D-10B0268FE28A}|TBRPGGame\\TBRPGGame.vcxproj|C:\\UniWork\\Year2\\Year2 Term2\\Portfolio\\TBRPGGame\\TBRPGGame\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{56CD0762-5A7D-4EB3-AF3D-10B0268FE28A}|TBRPGGame\\TBRPGGame.vcxproj|solutionrelative:TBRPGGame\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CD0762-5A7D-4EB3-AF3D-10B0268FE28A}|TBRPGGame\\TBRPGGame.vcxproj|C:\\UniWork\\Year2\\Year2 Term2\\Portfolio\\TBRPGGame\\TBRPGGame\\Mouse.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{56CD0762-5A7D-4EB3-AF3D-10B0268FE28A}|TBRPGGame\\TBRPGGame.vcxproj|solutionrelative:TBRPGGame\\Mouse.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CD0762-5A7D-4EB3-AF3D-10B0268FE28A}|TBRPGGame\\TBRPGGame.vcxproj|C:\\UniWork\\Year2\\Year2 Term2\\Portfolio\\TBRPGGame\\TBRPGGame\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{56CD0762-5A7D-4EB3-AF3D-10B0268FE28A}|TBRPGGame\\TBRPGGame.vcxproj|solutionrelative:TBRPGGame\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CD0762-5A7D-4EB3-AF3D-10B0268FE28A}|TBRPGGame\\TBRPGGame.vcxproj|C:\\UniWork\\Year2\\Year2 Term2\\Portfolio\\TBRPGGame\\TBRPGGame\\Target.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{56CD0762-5A7D-4EB3-AF3D-10B0268FE28A}|TBRPGGame\\TBRPGGame.vcxproj|solutionrelative:TBRPGGame\\Target.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CD0762-5A7D-4EB3-AF3D-10B0268FE28A}|TBRPGGame\\TBRPGGame.vcxproj|C:\\UniWork\\Year2\\Year2 Term2\\Portfolio\\TBRPGGame\\TBRPGGame\\BattleInterface.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{56CD0762-5A7D-4EB3-AF3D-10B0268FE28A}|TBRPGGame\\TBRPGGame.vcxproj|solutionrelative:TBRPGGame\\BattleInterface.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CD0762-5A7D-4EB3-AF3D-10B0268FE28A}|TBRPGGame\\TBRPGGame.vcxproj|C:\\UniWork\\Year2\\Year2 Term2\\Portfolio\\TBRPGGame\\TBRPGGame\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{56CD0762-5A7D-4EB3-AF3D-10B0268FE28A}|TBRPGGame\\TBRPGGame.vcxproj|solutionrelative:TBRPGGame\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CD0762-5A7D-4EB3-AF3D-10B0268FE28A}|TBRPGGame\\TBRPGGame.vcxproj|C:\\UniWork\\Year2\\Year2 Term2\\Portfolio\\TBRPGGame\\TBRPGGame\\Attacks.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{56CD0762-5A7D-4EB3-AF3D-10B0268FE28A}|TBRPGGame\\TBRPGGame.vcxproj|solutionrelative:TBRPGGame\\Attacks.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CD0762-5A7D-4EB3-AF3D-10B0268FE28A}|TBRPGGame\\TBRPGGame.vcxproj|C:\\UniWork\\Year2\\Year2 Term2\\Portfolio\\TBRPGGame\\TBRPGGame\\BattleInterface.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{56CD0762-5A7D-4EB3-AF3D-10B0268FE28A}|TBRPGGame\\TBRPGGame.vcxproj|solutionrelative:TBRPGGame\\BattleInterface.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CD0762-5A7D-4EB3-AF3D-10B0268FE28A}|TBRPGGame\\TBRPGGame.vcxproj|C:\\UniWork\\Year2\\Year2 Term2\\Portfolio\\TBRPGGame\\TBRPGGame\\EnemyManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{56CD0762-5A7D-4EB3-AF3D-10B0268FE28A}|TBRPGGame\\TBRPGGame.vcxproj|solutionrelative:TBRPGGame\\EnemyManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CD0762-5A7D-4EB3-AF3D-10B0268FE28A}|TBRPGGame\\TBRPGGame.vcxproj|C:\\UniWork\\Year2\\Year2 Term2\\Portfolio\\TBRPGGame\\TBRPGGame\\Animation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{56CD0762-5A7D-4EB3-AF3D-10B0268FE28A}|TBRPGGame\\TBRPGGame.vcxproj|solutionrelative:TBRPGGame\\Animation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CD0762-5A7D-4EB3-AF3D-10B0268FE28A}|TBRPGGame\\TBRPGGame.vcxproj|C:\\UniWork\\Year2\\Year2 Term2\\Portfolio\\TBRPGGame\\TBRPGGame\\Target.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{56CD0762-5A7D-4EB3-AF3D-10B0268FE28A}|TBRPGGame\\TBRPGGame.vcxproj|solutionrelative:TBRPGGame\\Target.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CD0762-5A7D-4EB3-AF3D-10B0268FE28A}|TBRPGGame\\TBRPGGame.vcxproj|C:\\UniWork\\Year2\\Year2 Term2\\Portfolio\\TBRPGGame\\TBRPGGame\\Mouse.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{56CD0762-5A7D-4EB3-AF3D-10B0268FE28A}|TBRPGGame\\TBRPGGame.vcxproj|solutionrelative:TBRPGGame\\Mouse.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CD0762-5A7D-4EB3-AF3D-10B0268FE28A}|TBRPGGame\\TBRPGGame.vcxproj|C:\\UniWork\\Year2\\Year2 Term2\\Portfolio\\TBRPGGame\\TBRPGGame\\Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{56CD0762-5A7D-4EB3-AF3D-10B0268FE28A}|TBRPGGame\\TBRPGGame.vcxproj|solutionrelative:TBRPGGame\\Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CD0762-5A7D-4EB3-AF3D-10B0268FE28A}|TBRPGGame\\TBRPGGame.vcxproj|C:\\UniWork\\Year2\\Year2 Term2\\Portfolio\\TBRPGGame\\TBRPGGame\\EnemyManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{56CD0762-5A7D-4EB3-AF3D-10B0268FE28A}|TBRPGGame\\TBRPGGame.vcxproj|solutionrelative:TBRPGGame\\EnemyManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CD0762-5A7D-4EB3-AF3D-10B0268FE28A}|TBRPGGame\\TBRPGGame.vcxproj|C:\\UniWork\\Year2\\Year2 Term2\\Portfolio\\TBRPGGame\\TBRPGGame\\GeneralFunctions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{56CD0762-5A7D-4EB3-AF3D-10B0268FE28A}|TBRPGGame\\TBRPGGame.vcxproj|solutionrelative:TBRPGGame\\GeneralFunctions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CD0762-5A7D-4EB3-AF3D-10B0268FE28A}|TBRPGGame\\TBRPGGame.vcxproj|C:\\UniWork\\Year2\\Year2 Term2\\Portfolio\\TBRPGGame\\TBRPGGame\\Attacks.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{56CD0762-5A7D-4EB3-AF3D-10B0268FE28A}|TBRPGGame\\TBRPGGame.vcxproj|solutionrelative:TBRPGGame\\Attacks.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CD0762-5A7D-4EB3-AF3D-10B0268FE28A}|TBRPGGame\\TBRPGGame.vcxproj|C:\\UniWork\\Year2\\Year2 Term2\\Portfolio\\TBRPGGame\\TBRPGGame\\Animation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{56CD0762-5A7D-4EB3-AF3D-10B0268FE28A}|TBRPGGame\\TBRPGGame.vcxproj|solutionrelative:TBRPGGame\\Animation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CD0762-5A7D-4EB3-AF3D-10B0268FE28A}|TBRPGGame\\TBRPGGame.vcxproj|C:\\UniWork\\Year2\\Year2 Term2\\Portfolio\\TBRPGGame\\TBRPGGame\\GeneralFunctions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{56CD0762-5A7D-4EB3-AF3D-10B0268FE28A}|TBRPGGame\\TBRPGGame.vcxproj|solutionrelative:TBRPGGame\\GeneralFunctions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\crt\\src\\vcruntime\\delete_scalar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CD0762-5A7D-4EB3-AF3D-10B0268FE28A}|TBRPGGame\\TBRPGGame.vcxproj|C:\\UniWork\\Year2\\Year2 Term2\\Portfolio\\TBRPGGame\\TBRPGGame\\Enemies.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{56CD0762-5A7D-4EB3-AF3D-10B0268FE28A}|TBRPGGame\\TBRPGGame.vcxproj|solutionrelative:TBRPGGame\\Enemies.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CD0762-5A7D-4EB3-AF3D-10B0268FE28A}|TBRPGGame\\TBRPGGame.vcxproj|C:\\UniWork\\Year2\\Year2 Term2\\Portfolio\\TBRPGGame\\TBRPGGame\\Attacks.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{56CD0762-5A7D-4EB3-AF3D-10B0268FE28A}|TBRPGGame\\TBRPGGame.vcxproj|solutionrelative:TBRPGGame\\Attacks.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\xstring||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Target.h",
+              "DocumentMoniker": "C:\\UniWork\\Year2\\Year2 Term2\\Portfolio\\TBRPGGame\\TBRPGGame\\Target.h",
+              "RelativeDocumentMoniker": "TBRPGGame\\Target.h",
+              "ToolTip": "C:\\UniWork\\Year2\\Year2 Term2\\Portfolio\\TBRPGGame\\TBRPGGame\\Target.h",
+              "RelativeToolTip": "TBRPGGame\\Target.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-24T19:49:51.984Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Player.cpp",
+              "DocumentMoniker": "C:\\UniWork\\Year2\\Year2 Term2\\Portfolio\\TBRPGGame\\TBRPGGame\\Player.cpp",
+              "RelativeDocumentMoniker": "TBRPGGame\\Player.cpp",
+              "ToolTip": "C:\\UniWork\\Year2\\Year2 Term2\\Portfolio\\TBRPGGame\\TBRPGGame\\Player.cpp",
+              "RelativeToolTip": "TBRPGGame\\Player.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-21T20:11:51.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BattleInterface.cpp",
+              "DocumentMoniker": "C:\\UniWork\\Year2\\Year2 Term2\\Portfolio\\TBRPGGame\\TBRPGGame\\BattleInterface.cpp",
+              "RelativeDocumentMoniker": "TBRPGGame\\BattleInterface.cpp",
+              "ToolTip": "C:\\UniWork\\Year2\\Year2 Term2\\Portfolio\\TBRPGGame\\TBRPGGame\\BattleInterface.cpp",
+              "RelativeToolTip": "TBRPGGame\\BattleInterface.cpp",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAFcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-19T21:08:31.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.h",
+              "DocumentMoniker": "C:\\UniWork\\Year2\\Year2 Term2\\Portfolio\\TBRPGGame\\TBRPGGame\\Player.h",
+              "RelativeDocumentMoniker": "TBRPGGame\\Player.h",
+              "ToolTip": "C:\\UniWork\\Year2\\Year2 Term2\\Portfolio\\TBRPGGame\\TBRPGGame\\Player.h",
+              "RelativeToolTip": "TBRPGGame\\Player.h",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-21T20:11:47.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BattleInterface.h",
+              "DocumentMoniker": "C:\\UniWork\\Year2\\Year2 Term2\\Portfolio\\TBRPGGame\\TBRPGGame\\BattleInterface.h",
+              "RelativeDocumentMoniker": "TBRPGGame\\BattleInterface.h",
+              "ToolTip": "C:\\UniWork\\Year2\\Year2 Term2\\Portfolio\\TBRPGGame\\TBRPGGame\\BattleInterface.h",
+              "RelativeToolTip": "TBRPGGame\\BattleInterface.h",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAgwIcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-19T21:08:25.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Attacks.h",
+              "DocumentMoniker": "C:\\UniWork\\Year2\\Year2 Term2\\Portfolio\\TBRPGGame\\TBRPGGame\\Attacks.h",
+              "RelativeDocumentMoniker": "TBRPGGame\\Attacks.h",
+              "ToolTip": "C:\\UniWork\\Year2\\Year2 Term2\\Portfolio\\TBRPGGame\\TBRPGGame\\Attacks.h",
+              "RelativeToolTip": "TBRPGGame\\Attacks.h",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAD0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-27T16:25:01.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Enemy.h",
+              "DocumentMoniker": "C:\\UniWork\\Year2\\Year2 Term2\\Portfolio\\TBRPGGame\\TBRPGGame\\Enemy.h",
+              "RelativeDocumentMoniker": "TBRPGGame\\Enemy.h",
+              "ToolTip": "C:\\UniWork\\Year2\\Year2 Term2\\Portfolio\\TBRPGGame\\TBRPGGame\\Enemy.h",
+              "RelativeToolTip": "TBRPGGame\\Enemy.h",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-22T17:03:48.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TBRPGGame.cpp",
+              "DocumentMoniker": "C:\\UniWork\\Year2\\Year2 Term2\\Portfolio\\TBRPGGame\\TBRPGGame\\TBRPGGame.cpp",
+              "RelativeDocumentMoniker": "TBRPGGame\\TBRPGGame.cpp",
+              "ToolTip": "C:\\UniWork\\Year2\\Year2 Term2\\Portfolio\\TBRPGGame\\TBRPGGame\\TBRPGGame.cpp",
+              "RelativeToolTip": "TBRPGGame\\TBRPGGame.cpp",
+              "ViewState": "AgIAACUAAAAAAAAAAAAmwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-19T17:11:25.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mouse.h",
+              "DocumentMoniker": "C:\\UniWork\\Year2\\Year2 Term2\\Portfolio\\TBRPGGame\\TBRPGGame\\Mouse.h",
+              "RelativeDocumentMoniker": "TBRPGGame\\Mouse.h",
+              "ToolTip": "C:\\UniWork\\Year2\\Year2 Term2\\Portfolio\\TBRPGGame\\TBRPGGame\\Mouse.h",
+              "RelativeToolTip": "TBRPGGame\\Mouse.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-25T18:01:49.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EnemyManager.h",
+              "DocumentMoniker": "C:\\UniWork\\Year2\\Year2 Term2\\Portfolio\\TBRPGGame\\TBRPGGame\\EnemyManager.h",
+              "RelativeDocumentMoniker": "TBRPGGame\\EnemyManager.h",
+              "ToolTip": "C:\\UniWork\\Year2\\Year2 Term2\\Portfolio\\TBRPGGame\\TBRPGGame\\EnemyManager.h",
+              "RelativeToolTip": "TBRPGGame\\EnemyManager.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-24T15:41:32.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Animation.cpp",
+              "DocumentMoniker": "C:\\UniWork\\Year2\\Year2 Term2\\Portfolio\\TBRPGGame\\TBRPGGame\\Animation.cpp",
+              "RelativeDocumentMoniker": "TBRPGGame\\Animation.cpp",
+              "ToolTip": "C:\\UniWork\\Year2\\Year2 Term2\\Portfolio\\TBRPGGame\\TBRPGGame\\Animation.cpp",
+              "RelativeToolTip": "TBRPGGame\\Animation.cpp",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACcAAAB9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-24T20:44:06.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Target.cpp",
+              "DocumentMoniker": "C:\\UniWork\\Year2\\Year2 Term2\\Portfolio\\TBRPGGame\\TBRPGGame\\Target.cpp",
+              "RelativeDocumentMoniker": "TBRPGGame\\Target.cpp",
+              "ToolTip": "C:\\UniWork\\Year2\\Year2 Term2\\Portfolio\\TBRPGGame\\TBRPGGame\\Target.cpp",
+              "RelativeToolTip": "TBRPGGame\\Target.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-24T19:50:03.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Mouse.cpp",
+              "DocumentMoniker": "C:\\UniWork\\Year2\\Year2 Term2\\Portfolio\\TBRPGGame\\TBRPGGame\\Mouse.cpp",
+              "RelativeDocumentMoniker": "TBRPGGame\\Mouse.cpp",
+              "ToolTip": "C:\\UniWork\\Year2\\Year2 Term2\\Portfolio\\TBRPGGame\\TBRPGGame\\Mouse.cpp",
+              "RelativeToolTip": "TBRPGGame\\Mouse.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-25T18:01:55.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Enemy.cpp",
+              "DocumentMoniker": "C:\\UniWork\\Year2\\Year2 Term2\\Portfolio\\TBRPGGame\\TBRPGGame\\Enemy.cpp",
+              "RelativeDocumentMoniker": "TBRPGGame\\Enemy.cpp",
+              "ToolTip": "C:\\UniWork\\Year2\\Year2 Term2\\Portfolio\\TBRPGGame\\TBRPGGame\\Enemy.cpp",
+              "RelativeToolTip": "TBRPGGame\\Enemy.cpp",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAC4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-22T17:03:56.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EnemyManager.cpp",
+              "DocumentMoniker": "C:\\UniWork\\Year2\\Year2 Term2\\Portfolio\\TBRPGGame\\TBRPGGame\\EnemyManager.cpp",
+              "RelativeDocumentMoniker": "TBRPGGame\\EnemyManager.cpp",
+              "ToolTip": "C:\\UniWork\\Year2\\Year2 Term2\\Portfolio\\TBRPGGame\\TBRPGGame\\EnemyManager.cpp",
+              "RelativeToolTip": "TBRPGGame\\EnemyManager.cpp",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-24T15:41:40.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GeneralFunctions.cpp",
+              "DocumentMoniker": "C:\\UniWork\\Year2\\Year2 Term2\\Portfolio\\TBRPGGame\\TBRPGGame\\GeneralFunctions.cpp",
+              "RelativeDocumentMoniker": "TBRPGGame\\GeneralFunctions.cpp",
+              "ToolTip": "C:\\UniWork\\Year2\\Year2 Term2\\Portfolio\\TBRPGGame\\TBRPGGame\\GeneralFunctions.cpp",
+              "RelativeToolTip": "TBRPGGame\\GeneralFunctions.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-19T17:14:57.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Attacks.cpp",
+              "DocumentMoniker": "C:\\UniWork\\Year2\\Year2 Term2\\Portfolio\\TBRPGGame\\TBRPGGame\\Attacks.cpp",
+              "RelativeDocumentMoniker": "TBRPGGame\\Attacks.cpp",
+              "ToolTip": "C:\\UniWork\\Year2\\Year2 Term2\\Portfolio\\TBRPGGame\\TBRPGGame\\Attacks.cpp",
+              "RelativeToolTip": "TBRPGGame\\Attacks.cpp",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAC8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-27T16:25:05.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Animation.h",
+              "DocumentMoniker": "C:\\UniWork\\Year2\\Year2 Term2\\Portfolio\\TBRPGGame\\TBRPGGame\\Animation.h",
+              "RelativeDocumentMoniker": "TBRPGGame\\Animation.h",
+              "ToolTip": "C:\\UniWork\\Year2\\Year2 Term2\\Portfolio\\TBRPGGame\\TBRPGGame\\Animation.h",
+              "RelativeToolTip": "TBRPGGame\\Animation.h",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-24T20:44:19.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GeneralFunctions.h",
+              "DocumentMoniker": "C:\\UniWork\\Year2\\Year2 Term2\\Portfolio\\TBRPGGame\\TBRPGGame\\GeneralFunctions.h",
+              "RelativeDocumentMoniker": "TBRPGGame\\GeneralFunctions.h",
+              "ToolTip": "C:\\UniWork\\Year2\\Year2 Term2\\Portfolio\\TBRPGGame\\TBRPGGame\\GeneralFunctions.h",
+              "RelativeToolTip": "TBRPGGame\\GeneralFunctions.h",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-19T17:10:38.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "delete_scalar.cpp",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\crt\\src\\vcruntime\\delete_scalar.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\crt\\src\\vcruntime\\delete_scalar.cpp",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\crt\\src\\vcruntime\\delete_scalar.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\crt\\src\\vcruntime\\delete_scalar.cpp",
+              "ViewState": "AgIAABQAAAAAAAAAAAAtwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-28T19:02:00.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Enemies.txt",
+              "DocumentMoniker": "C:\\UniWork\\Year2\\Year2 Term2\\Portfolio\\TBRPGGame\\TBRPGGame\\Enemies.txt",
+              "RelativeDocumentMoniker": "TBRPGGame\\Enemies.txt",
+              "ToolTip": "C:\\UniWork\\Year2\\Year2 Term2\\Portfolio\\TBRPGGame\\TBRPGGame\\Enemies.txt",
+              "RelativeToolTip": "TBRPGGame\\Enemies.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-22T17:11:09.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Attacks.txt",
+              "DocumentMoniker": "C:\\UniWork\\Year2\\Year2 Term2\\Portfolio\\TBRPGGame\\TBRPGGame\\Attacks.txt",
+              "RelativeDocumentMoniker": "TBRPGGame\\Attacks.txt",
+              "ToolTip": "C:\\UniWork\\Year2\\Year2 Term2\\Portfolio\\TBRPGGame\\TBRPGGame\\Attacks.txt",
+              "RelativeToolTip": "TBRPGGame\\Attacks.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-27T16:30:33.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "xstring",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\xstring",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\xstring",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\xstring",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\xstring",
+              "ViewState": "AgIAALMIAAAAAAAAAAAmwMMIAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-28T00:39:24.266Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

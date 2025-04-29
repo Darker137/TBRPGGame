@@ -1,0 +1,7 @@
+#Attacks.txt
+# This file contains the definitions of all attacks in the game.
+# format: name,damage,cooldown
+
+BaseAttack,10,0
+FireBall,30,2
+LightningBolt,30,2

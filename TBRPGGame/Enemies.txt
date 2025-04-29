@@ -1,0 +1,6 @@
+# enemies.txt
+# This file contains the definitions of all enemies in the game.
+# format: name,health,speed,damage,defense, attacks (seperated by ;)
+
+TriAngel,100,10,10,20,BaseAttack;LightningBolt
+ImPyramid,80,12,20,10,BaseAttack;FireBall

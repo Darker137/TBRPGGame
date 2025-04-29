@@ -1,0 +1,4 @@
+﻿  TBRPGGame.cpp
+C:\UniWork\Year2\Year2 Term2\Portfolio\TBRPGGame\TBRPGGame\TBRPGGame.cpp(17,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\UniWork\Year2\Year2 Term2\Portfolio\TBRPGGame\TBRPGGame\TBRPGGame.cpp(17,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  TBRPGGame.vcxproj -> C:\UniWork\Year2\Year2 Term2\Portfolio\TBRPGGame\x64\Debug\TBRPGGame.exe
